@@ -1,5 +1,5 @@
 # loon-rule
-个人自用loon规则设置，其中部分内容来源于网络大佬，感谢。
+自用loon规则设置，其中大部分内容搬运于@blackmatrix7大佬，非常感谢，个人编辑加以个性化设置。
 
 apple：
 https://raw.githubusercontent.com/Wfccsqk/loon-rule/Loon/apple.list
