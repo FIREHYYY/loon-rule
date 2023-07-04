@@ -1,5 +1,7 @@
 # loon-rule
-自用loon规则设置
+
+##自用loon规则设置，逐步更新调整
+
 
 advertise（去广）：
 https://raw.githubusercontent.com/Wfccsqk/loon-rule/Loon/advertise.list
@@ -9,6 +11,8 @@ https://raw.githubusercontent.com/Wfccsqk/loon-rule/Loon/direct.list
 
 porxy（代理）：
 https://raw.githubusercontent.com/Wfccsqk/loon-rule/Loon/porxy.list
+
+#以下规则搬运于[ @ blackmatrix7 ] ( https://github.com/blackmatrix7 )大佬，非常感谢。
 
 apple：
 https://raw.githubusercontent.com/Wfccsqk/loon-rule/Loon/apple.list
