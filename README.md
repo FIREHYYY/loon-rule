@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 Intel：
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Intel/Intel.list
 
-OpenA：
+OpenAI：
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list
 
 Global：
