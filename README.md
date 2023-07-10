@@ -1,15 +1,15 @@
 ## 规则顺序：去广放行 → 去广 → 直连 → 特殊代理 → 代理
 
-## 自用loon规则设置，随使用逐步更新调整，
+## loon规则设置，随使用逐步更新调整，
 
 advertise（去广）：
-https://raw.githubusercontent.com/Wfccsqk/loon-rule/Loon/advertise.list
+https://raw.githubusercontent.com/FIREHYYY/loon-rule/Loon/advertise.list
 
 direct（直连）：
-https://raw.githubusercontent.com/Wfccsqk/loon-rule/Loon/direct.list
+https://raw.githubusercontent.com/FIREHYYY/loon-rule/Loon/direct.list
 
 porxy（代理）：
-https://raw.githubusercontent.com/Wfccsqk/loon-rule/Loon/porxy.list
+https://raw.githubusercontent.com/FIREHYYY/loon-rule/Loon/porxy.list
 
 ## 以下规则搬运于[@blackmatrix7](https://github.com/blackmatrix7)大佬。
 
