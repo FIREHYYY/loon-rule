@@ -1,2 +1,8 @@
-#智行火车票
-ctrip.com
+# DOMAIN-SUFFIX    基于域名后缀---域名后面相同就行，例如b.com可匹配到a.b.com
+# DOMAIN	         基于域名完整匹配---严格匹配域名
+# DOMAIN-KEYWORD	 基于域名关键字---检测到关键词就会被匹配
+# USER-AGENT	     基于用户代理串---根据 Http 的 user-agent 值来进行匹配，支持带有 * , ? 的通配符匹配
+# URL-REGEX	       基于URL正则使用---正则表达式匹配所走规则
+
+# 智行火车票
+DOMAIN-KEYWORD,ctrip.com
